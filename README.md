@@ -1,13 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header"/>
 </p>
 
-<h1 align="center">
-  Hello, Friend! 🎭
-</h1>
-
-<h1 align="center">Hi 👋, I'm Saher Muhamed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Catamaran&weight=700&size=30&duration=3500&pause=1000&color=E55807&center=true&vCenter=true&width=435&height=70&lines=Hello%2C+Friend!;I+am+a+Python+Developer%2C;Jr+Penetration+Tester%2C;Cyber+Security+Analyst)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahermuhamed&label=Profile%20views&color=0e75b6&style=flat" alt="sahermuhamed" /> </p>
 
@@ -31,5 +26,5 @@
 ![snake gif](https://github.com/SaherMuhamed/SaherMuhamed/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer"/>
 </p>
