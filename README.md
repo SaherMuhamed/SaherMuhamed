@@ -14,6 +14,8 @@
 
 <h2> 📊 &nbsp;My Stats History</h2>
 
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaherMuhamed&theme=xcode)
+
 ![SaherMuhamed's Stats](https://github-readme-stats.vercel.app/api?username=SaherMuhamed&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaherMuhamed&theme=dark&hide_border=true&border_radius=7)](https://git.io/streak-stats)
