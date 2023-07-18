@@ -2,13 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header"/>
 </p>
 
+<h2 align="center">Hi 👋, I'm Saher Muhamed</h2>
+
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Catamaran&weight=700&size=30&duration=3500&pause=1000&color=E55807&center=true&vCenter=true&width=435&height=70&lines=Hello%2C+Friend!;I+am+a+Python+Developer%2C;Jr+Penetration+Tester%2C;Cyber+Security+Analyst)](https://git.io/typing-svg)
   
 </div>
 
-<h1 align="center">Hi 👋, I'm Saher Muhamed</h1>
 <h3 align="center">A passionate python developer, ethical hacker from Egypt</h3>
 
 - 💬 Ask me about **Python, Ethical hacking, or Flutter**
