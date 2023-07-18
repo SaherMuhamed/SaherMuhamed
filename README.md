@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahermuhamed&show_icons=true&locale=en" alt="sahermuhamed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahermuhamed&" alt="sahermuhamed" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaherMuhamed&theme=dark&hide_border=true&border_radius=7)](https://git.io/streak-stats)
