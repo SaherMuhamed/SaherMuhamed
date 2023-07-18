@@ -28,7 +28,7 @@
 
 ![SaherMuhamed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaherMuhamed&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-![Snake animation](https://github.com/SaherMuhamed/SaherMuhamed/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SaherMuhamed/SaherMuhamed/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
