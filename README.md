@@ -6,13 +6,13 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Catamaran&weight=700&size=30&duration=3500&pause=1000&color=E55807&center=true&vCenter=true&width=435&height=70&lines=Hello%2C+Friend!;I+am+a+Python+Developer%2C;Jr+Penetration+Tester%2C;Cyber+Security+Analyst)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Catamaran&weight=700&size=30&duration=3500&pause=1000&color=E55807&center=true&vCenter=true&width=435&height=70&lines=Hello%2C+Friend!;I+am+a+Python+Developer%2C;Jr+Penetration+Tester%2C;MERN+Stack;Cyber+Security+Analyst)](https://git.io/typing-svg)
   
 </div>
 
 <h3 align="center">A passionate python developer, ethical hacker from Egypt</h3>
 
-- 💬 Ask me about **Python, Ethical hacking, or Flutter**
+- 💬 Ask me about **Python, Ethical hacking, or MERN Stack**
 
 - 📫 How to reach me **sahermuhamed21@gmail.com**
 
