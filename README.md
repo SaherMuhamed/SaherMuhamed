@@ -10,13 +10,11 @@
   
 </div>
 
-<h3 align="center">A passionate python developer, ethical hacker from Egypt</h3>
+<h3 align="center">A passionate python developer, and penetration tester</h3>
 
 - 💬 Ask me about **Python, Ethical hacking, or MERN Stack**
 
 - 📫 How to reach me **sahermuhamed21@gmail.com**
-
-- ⚡ Fun fact **Smart enough 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
