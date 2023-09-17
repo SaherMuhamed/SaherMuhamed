@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header"/>
-</p>
-
 <h2 align="center">Hi 👋, I'm Saher Muhamed</h2>
 
 <div align="center">
@@ -12,7 +8,7 @@
 
 <h3 align="center">A passionate python developer, and penetration tester</h3>
 
-- 💬 Ask me about **Python, Ethical hacking, or MERN Stack**
+- 💬 Ask me about **Python, Ethical hacking, or Penetration testing**
 
 - 📫 How to reach me **sahermuhamed21@gmail.com**
 
@@ -30,7 +26,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaherMuhamed&theme=dark&hide_border=true&border_radius=7)](https://git.io/streak-stats)
 
 ![SaherMuhamed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaherMuhamed&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer"/>
-</p>
