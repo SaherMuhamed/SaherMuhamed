@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Saher Muhamed</h2>
 
-<div align="left">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=F7420E&width=435&lines=Hello+Friend!;I+am+Python+developer%2C;Penetration+tester%2C;Cybersecurity+analyst)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=F7420E&width=435&lines=Hello+Friend!;I+am+Python+developer%2C;Penetration+tester%2C;Cybersecurity+analyst)](https://git.io/typing-svg)
 </div>
 
 <h3 align="center">A passionate python developer, and penetration tester</h3>
