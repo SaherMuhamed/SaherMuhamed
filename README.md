@@ -16,6 +16,6 @@
 
 ![SaherMuhamed's Stats](https://github-readme-stats.vercel.app/api?username=SaherMuhamed&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![SaherMuhamed's Stats](https://github-readme-stats.vercel.app/api?username=SaherMuhamed&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![SaherMuhamed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaherMuhamed&theme=dark&hide_border=true)
   
 ![SaherMuhamed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaherMuhamed&theme=dark&show_icons=true&hide_border=true&layout=compact)
