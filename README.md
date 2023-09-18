@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Saher Muhamed</h2>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Catamaran&weight=700&size=30&duration=3500&pause=1000&color=E55807&center=true&vCenter=true&width=435&height=70&lines=Hello%2C+Friend!;I+am+a+Python+Developer%2C;Jr+Penetration+Tester%2C;Cyber+Security+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Catamaran&weight=700&size=30&duration=3500&pause=1000&color=E55807&center=true&vCenter=true&width=435&height=70&lines=Hello%2C+Friend!;I+am+a+Python+Developer%2C;Jr+Penetration+Tester%2C;Cyber+Security+Analyst)](https://git.io/typing-svg)
 </div>
 
 <h3 align="center">A passionate python developer, and penetration tester</h3>
@@ -15,6 +15,7 @@
 ## My Stats History
 <div align="center">
   ![SaherMuhamed's Stats](https://github-readme-stats.vercel.app/api?username=SaherMuhamed&theme=dark&show_icons=true&hide_border=true&count_private=true)
+</div>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaherMuhamed&theme=dark&hide_border=true&border_radius=7)](https://git.io/streak-stats)
   ![SaherMuhamed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaherMuhamed&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </div>
