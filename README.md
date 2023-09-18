@@ -16,6 +16,7 @@
 <div align="center">
   ![SaherMuhamed's Stats](https://github-readme-stats.vercel.app/api?username=SaherMuhamed&theme=dark&show_icons=true&hide_border=true&count_private=true)
 </div>
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaherMuhamed&theme=dark&hide_border=true&border_radius=7)](https://git.io/streak-stats)
+  
   ![SaherMuhamed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaherMuhamed&theme=dark&show_icons=true&hide_border=true&layout=compact)
-</div>
