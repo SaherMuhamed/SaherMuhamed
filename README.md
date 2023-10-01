@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Saher Muhamed</h2>
-<a href="sahermuhamed21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1500&color=F7420E&center=true&vCenter=true&width=435&lines=Hello+Friend!;I+am+Python+developer%2C;Penetration+tester%2C;Cybersecurity+analyst" alt="Typing SVG" /></a></p>
 
