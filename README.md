@@ -1,11 +1,11 @@
 <h2 align="center">Hi, I'm Saher Muhamed</h2>
+<a href="sahermuhamed21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1500&color=F7420E&center=true&vCenter=true&width=435&lines=Hello+Friend!;I+am+Python+developer%2C;Penetration+tester%2C;Cybersecurity+analyst" alt="Typing SVG" /></a></p>
 
 <h3 align="center">A passionate python developer, and penetration tester</h3>
 
-- 💬 Ask me about **Python, Ethical hacking, or Penetration testing**
-- 📫 How to reach me **sahermuhamed21@gmail.com**
+- 💬 Ask me about **Python, Ethical hacking, or Penetration testing**  
 
 ## Environments
 <p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/></a> <a href="https://www.kali.org/"><img src="https://www.kali.org/docs/policy/trademark/kali-logo-tm.png", alt="kali linux"width="40" height="40" /></a>
