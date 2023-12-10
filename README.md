@@ -21,3 +21,9 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaherMuhamed&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SaherMuhamed/SaherMuhamed/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
