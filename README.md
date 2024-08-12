@@ -1,5 +1,9 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1500&color=F7420E&center=true&vCenter=true&width=435&lines=I+am+Python+developer%2C;Penetration+tester%2C;Security+Researcher" alt="Typing SVG" /></a></p>
 
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/SaherMuhamed.png" alt="TryHackMe">
+</div>
+
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Passionate python developer, and penetration tester
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me anything about **Python, Ethical hacking, or Penetration testing**
