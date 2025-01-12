@@ -13,7 +13,7 @@
    <img src="https://www.kali.org/docs/policy/trademark/kali-logo-tm.png" alt="kali linux" width="40" height="40" />
    <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="ubuntu" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-   <img width="40" height="40" src="https://img.icons8.com/fluency/48/windows-11.png" alt="windows-11"/>
+   <img width="47" height="47" src="https://img.icons8.com/fluency/48/windows-11.png" alt="windows-11"/>
 </div>
 
 ## Languages & Tools
