@@ -55,3 +55,4 @@
 
 ## My Awarded Badges
 <img src="https://github.com/SaherMuhamed/SaherMuhamed/blob/main/badges/Wireless_Networks_Penetration_Testing.png" alt="wireless penetration testing" width="128" height="128">
+<img src="https://github.com/SaherMuhamed/SaherMuhamed/blob/main/badges/ccna-introduction-to-networks.png" alt="ccna-introduction-to-networks" width="128" height="128">
