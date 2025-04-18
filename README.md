@@ -1,7 +1,8 @@
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=3000&pause=1500&color=F7420E&center=true&vCenter=true&width=435&lines=I+am+Python+developer%2C;Penetration+tester%2C; Offensive+security+engineer" alt="Typing SVG" /></a></p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=3000&pause=1500&color=F7420E&center=true&vCenter=true&width=435&lines=I+am+Python+developer%2C;Penetration+tester%2C; Offensive+security+engineer" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/S4h3rMuhm3d.png"/>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/S4h3rMuhm3d.png" />
 </div>
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Passionate python developer, and penetration tester
