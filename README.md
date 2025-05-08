@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/S4h3rMuhm3d.png" alt="Your Image Badge" />
+   <img src="https://tryhackme-badges.s3.amazonaws.com/S4h3rMuhm3d.png" />
 </div>
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Passionate python developer, and penetration tester
