@@ -57,7 +57,7 @@
 
 ## My Awarded Badges
 <div>
-   <img src="https://github.com/SaherMuhamed/SaherMuhamed/blob/main/badges/Wireless_Networks_Penetration_Testing.png" alt="wireless penetration testing" width="128" height="128">
-   <img src="https://github.com/SaherMuhamed/SaherMuhamed/blob/main/badges/ccna-introduction-to-networks.png" alt="ccna-introduction-to-networks" width="128" height="128">
-   <img src="https://github.com/SaherMuhamed/SaherMuhamed/blob/main/badges/red-hat-system-administration-i-rh124-rha-ver-9-3.png" alt="ccna-introduction-to-networks" width="128" height="128">
+   <img src="https://github.com/SaherMuhamed/SaherMuhamed/blob/main/badges/Wireless_Networks_Penetration_Testing.png" alt="wireless penetration testing" width="64" height="64">
+   <img src="https://github.com/SaherMuhamed/SaherMuhamed/blob/main/badges/ccna-introduction-to-networks.png" alt="ccna-introduction-to-networks" width="64" height="64">
+   <img src="https://github.com/SaherMuhamed/SaherMuhamed/blob/main/badges/red-hat-system-administration-i-rh124-rha-ver-9-3.png" alt="ccna-introduction-to-networks" width="64" height="64">
 </div>
