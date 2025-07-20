@@ -7,7 +7,6 @@
 </div>
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Passionate python developer, and penetration tester
-
 <!-- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me anything about **Python, Ethical hacking, or Penetration testing** -->
 
 ## Operating Systems
