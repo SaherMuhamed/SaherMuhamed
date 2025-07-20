@@ -8,7 +8,7 @@
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Passionate python developer, and penetration tester
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me anything about **Python, Ethical hacking, or Penetration testing**
+<!-- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me anything about **Python, Ethical hacking, or Penetration testing** -->
 
 ## Operating Systems
 <div align="center">
@@ -55,9 +55,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaherMuhamed&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
-## My Awarded Badges
-<div>
-   <img src="https://github.com/SaherMuhamed/SaherMuhamed/blob/main/badges/Wireless_Networks_Penetration_Testing.png" alt="wireless penetration testing" width="64" height="64">
-   <img src="https://github.com/SaherMuhamed/SaherMuhamed/blob/main/badges/ccna-introduction-to-networks.png" alt="ccna-introduction-to-networks" width="64" height="64">
-   <img src="https://github.com/SaherMuhamed/SaherMuhamed/blob/main/badges/red-hat-system-administration-i-rh124-rha-ver-9-3.png" alt="ccna-introduction-to-networks" width="64" height="64">
-</div>
